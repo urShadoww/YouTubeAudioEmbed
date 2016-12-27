@@ -1,10 +1,8 @@
 /* 
- Enhancing the code shared by Amit Agarwal
- Nauman Khan
+ urShadow
  http://naumankhan.blogspot.com
+ Enhancing the code wrote by Amit Agarwal
 */
-
-
 
 function onYouTubeIframeAPIReady() {
 	var e = document.getElementById("youtube-audio"),
