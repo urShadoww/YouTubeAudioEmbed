@@ -1,10 +1,11 @@
 /* 
- Enhancing the code shared by Amit Agarwal
- Nauman Khan
+ This code has been written by Amit Agarwal
+ Web: http://www.labnol.org/?p=26740 
+
+ I have just changed the images to make the player more user interactive.
+ urShadow
  http://naumankhan.blogspot.com
 */
-
-
 
 function onYouTubeIframeAPIReady() {
 	var e = document.getElementById("youtube-audio"),
